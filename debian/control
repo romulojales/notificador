@@ -1,0 +1,12 @@
+Source: notificador
+Section: unknown
+Priority: extra
+Maintainer: Rômulo de Barros Correia Jales <rjales@fitec.org.br>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: notificador
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},python
+Description: Notificador genérico
+ Notificador genérico baseado em python e gtk

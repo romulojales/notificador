@@ -1,0 +1,22 @@
+This package was debianized by Rômulo de Barros Correia Jales <rjales@fitec.org.br> on
+Fri, 10 Oct 2008 15:18:22 -0300.
+
+Upstream Author(s): 
+
+    Rômulo Jales	- rjales@fitec.org.br 
+    Murilo Pontes	- mpontes@fitec.org.br
+    Luiz de Barros 	- lboneto@fitec.org.br
+
+Copyright: 
+
+    Copyright (C) 2008-2009 Megaware Industrial LTDA
+
+License:
+
+    GNU GPL V2 see /usr/share/common-licenses/GPL-2
+
+The Debian packaging is (C) 2008, romulo <rjales@fitec.org.br> and
+is licensed under the GPL V, see `/usr/share/common-licenses/GPL'.
+
+# Please also look if there are files or directories which have a
+# different copyright/license attached and list them here.

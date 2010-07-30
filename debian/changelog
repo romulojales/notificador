@@ -1,0 +1,19 @@
+notificador (1.2-1megalinux) megalinux; urgency=low
+
+  * correção para criar o diretorio .megalinux para todos os usuarios
+
+ -- Luiz de Barros Oliveira Neto <lboneto@fitec.org.br>  Mon, 09 Feb 2009 17:06:14 -0300
+
+notificador (1.1-1megalinux) megalinux; urgency=low
+
+  * acrescimo da opcao -m para inibicao ao clicar no icone
+  * cria  XML via interface captiva
+
+ -- Luiz de Barros Oliveira Neto <lboneto@fitec.org.br>  Wed, 10 Dec 2008 18:45:48 -0300
+
+notificador (1.0-1megalinux) megalinux; urgency=low
+
+  * Primeira Versao
+
+ -- Luiz de Barros Oliveira Neto <lboneto@fitec.org.br>  Tue, 09 Dec 2008 11:48:57 -0300
+

@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-02 14:53-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: optparse.py:134
+#, python-format
+msgid "no such option: %s"
+msgstr ""
+
+#: optparse.py:145
+#, python-format
+msgid "ambiguous option: %s (%s?)"
+msgstr ""
+
+#: optparse.py:368
+#, python-format
+msgid "Usage: %s\n"
+msgstr ""
+
+#: optparse.py:387
+msgid "Usage"
+msgstr ""
+
+#: optparse.py:412
+msgid "integer"
+msgstr ""
+
+#: optparse.py:413
+msgid "long integer"
+msgstr ""
+
+#: optparse.py:414
+msgid "floating-point"
+msgstr ""
+
+#: optparse.py:415
+msgid "complex"
+msgstr ""
+
+#: optparse.py:423
+#, python-format
+msgid "option %s: invalid %s value: %r"
+msgstr ""
+
+#: optparse.py:431
+#, python-format
+msgid "option %s: invalid choice: %r (choose from %s)"
+msgstr ""
+
+#: optparse.py:1246
+msgid "show this help message and exit"
+msgstr ""
+
+#: optparse.py:1251
+msgid "show program's version number and exit"
+msgstr ""
+
+#: optparse.py:1274
+msgid "%prog [options]"
+msgstr ""
+
+#: optparse.py:1484 optparse.py:1523
+#, python-format
+msgid "%s option requires an argument"
+msgstr ""
+
+#: optparse.py:1486 optparse.py:1525
+#, python-format
+msgid "%s option requires %d arguments"
+msgstr ""
+
+#: optparse.py:1495
+#, python-format
+msgid "%s option does not take a value"
+msgstr ""
+
+#: optparse.py:1612
+msgid "Options"
+msgstr ""
