@@ -3,7 +3,7 @@ import pynotify
 import gobject
 
 __author__="Rômulo de Barros Correia Jales"
-__date__ ="$03/12/2008 14:36:49$"
+__date__ ="$30/07/2010 13:58:14$"
 
 class Notificador:
     def __init__(self,tempoEspera,tempoExibicao,titulo,mensagem,icone):

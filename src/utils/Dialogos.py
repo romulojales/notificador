@@ -8,7 +8,7 @@ sim    = gtk.RESPONSE_YES
 nao    = gtk.RESPONSE_NO
 
 __author__="Rômulo de Barros Correia Jales"
-__date__ ="$03/12/2008 17:26:32$"
+__date__ ="$30/07/2010 13:58:14$"
 
 
 class Erro(gtk.MessageDialog):

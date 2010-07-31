@@ -5,7 +5,7 @@ from Notificador import Notificador
 import os.path
 
 __author__="Rômulo de Barros Correia Jales"
-__date__ ="$03/12/2008 14:36:55$"
+__date__ ="$30/07/2010 13:58:14$"
 
 class Alerta:
     def __init__(self,icone=None, programa=None,parametros=None,tempoEspera=2,tempoExibicao=20,titulo="Notificador",mensagem=None,arquivoInibidor=None):

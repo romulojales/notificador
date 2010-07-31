@@ -6,7 +6,7 @@ from utils.Dialogos import Questao
 import gtk
 
 __author__="Rômulo de Barros Correia Jales"
-__date__ ="$03/12/2008 17:26:32$"
+__date__ ="$30/07/2010 13:58:14$"
 
 class Menu(gtk.Menu):
     def __init__(self,programa,arquivoInibidor):

@@ -5,7 +5,7 @@ import sys
 import os
 
 __author__="Rômulo de Barros Correia Jales"
-__date__ ="$03/12/2008 13:58:21$"
+__date__ ="$30/07/2010 13:58:14$"
 
 class Icone(gtk.StatusIcon):
 

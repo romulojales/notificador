@@ -8,14 +8,14 @@ LOCALEDIR = $(DESTDIR)/usr/share/locale
 VERSION = 1.0
 PROGNAME = notificador
 
-mo:
-	 msgfmt po/pt_BR.po -o po/notificador.mo
+all: 
+	make -C po
 
 clean:
-	rm po/notificador.mo
+	find . -name "*.pyc" -delete
+	make -C po clean
 
 install:
-	make mo
 	mkdir -p $(SHAREDIR)/$(PROGNAME)/$(VERSION)
 	mkdir -p $(LOCALEDIR)/pt_BR/LC_MESSAGES
 	cp -a src/notificador.py $(BINDIR)/notificador
