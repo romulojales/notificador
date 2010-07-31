@@ -1,13 +1,14 @@
 #!/usr/bin/python
 #-*-coding: UTF-8 -*-
 # license: GPLv2
+# author: Rômulo Jales <romulo@romulojales.com>
 import sys
 import gtk
 import os.path
 import gettext
 
 __author__ = "Rômulo de Barros Correia Jales"
-__date__    ="$03/12/2008 13:58:14$"
+__date__    ="$30/07/2010 13:58:14$"
 
 libDir = "/usr/share/notificador/1.1/"
 
@@ -57,8 +58,8 @@ def main():
         
 if __name__ == "__main__":
 	try:
-		if(not os.path.exists(os.path.expanduser("~/.megalinux"))):
-			os.mkdir(os.path.expanduser("~/.megalinux"))
+		if(not os.path.exists(os.path.expanduser("~/.notificador"))):
+			os.mkdir(os.path.expanduser("~/.notificador"))
 		main()
 		sys.exit(0)
 	except Exception,e:

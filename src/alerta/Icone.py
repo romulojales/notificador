@@ -1,4 +1,3 @@
-
 #-*-coding: UTF -8-*-
 from alerta.Menu import Menu
 import gtk
