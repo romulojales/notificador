@@ -21,7 +21,7 @@ install:
 	cp -a src/notificador.py $(BINDIR)/notificador
 	chmod  a+x $(BINDIR)/notificador
 	cp -a src/alerta $(SHAREDIR)/$(PROGNAME)/$(VERSION)
-	cp -a src/utils $(SHAREDIR)/$(PROGNAME)/$(VERSION)
+	cp -a src/utils $(SHARED2IR)/$(PROGNAME)/$(VERSION)
 	cp -a src/xmlNotificador $(SHAREDIR)/$(PROGNAME)/$(VERSION)
 	cp -a po/notificador.mo $(LOCALEDIR)/pt_BR/LC_MESSAGES
 	
